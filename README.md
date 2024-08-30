@@ -1,0 +1,1 @@
+Hello and welcome! I’m a web developer with a passion for creating dynamic and engaging web experiences using HTML, CSS, and JavaScript. My GitHub profile showcases a variety of projects that highlight my skills and enthusiasm for front-end development.
